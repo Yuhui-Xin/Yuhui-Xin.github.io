@@ -26,7 +26,7 @@ author:
   pronouns         : "he/him"
   bio              : "Ph.D. student majoring in Biochemistry and molecular biology"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "Institute of Biophysics"
   uri              : # URL
   email            : "xinyuhui@ibp.ac.cn" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Yuhui-Xin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
