@@ -13,7 +13,7 @@ I am a Ph.D. student majoring in Biochemistry and Molecular Biology at the [Inst
 
 I'm always willing to learn, exchange ideas, and collaborate! Please don't hesitate to contact me.
 
-Click [here](https://github.com/Yuhui-Xin/Yuhui-Xin.github.io/) for my Curriculum Vitae.
+Click [here](https://github.com/Yuhui-Xin/Yuhui-Xin.github.io/blob/master/_pages/CV_Yuhui%20Xin_2024.pdf) for my Curriculum Vitae.
 
 
 Academic background
