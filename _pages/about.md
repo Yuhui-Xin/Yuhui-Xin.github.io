@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
+
 Hello, This is Yuhui Xin.
 
 I am a Ph.D. student majoring in Biochemistry and Molecular Biology at the [Institute of Biophysics](http://english.ibp.cas.cn/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) and supervised by [Prof. Zihe Rao](https://www.med.tsinghua.edu.cn/en/info/1142/1592.htm), who is a member of the Chinese Academy of Sciences and fellow of the American Academy of Arts and Sciences. Our lab focused on understanding the molecular basis for important proteins and viruses related to human infection disease or with important physiological functions, as well as in innovative drug discovery. My current research topic is virus-encoded DNA Topoisomerase II.
 
 I'm always willing to learn, exchange ideas, and collaborate! Please don't hesitate to contact me.
 
-Click [here](https://github.com/Yuhui-Xin/Yuhui-Xin.github.io/blob/master/_pages/CV_Yuhui%20Xin_2024.pdf) for my Curriculum Vitae.
+Click [here](https://github.com/Yuhui-Xin/Yuhui-Xin.github.io/files/CV_Yuhui20%Xin_2024.pdf) for my Curriculum Vitae.
 
 
 Academic background
